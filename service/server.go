@@ -24,7 +24,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/surge/glog"
+	"github.com/golang/glog"
 	"github.com/surgemq/message"
 	"github.com/surgemq/surgemq/auth"
 	"github.com/surgemq/surgemq/sessions"

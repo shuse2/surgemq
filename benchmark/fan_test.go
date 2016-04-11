@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surge/glog"
+	"github.com/golang/glog"
 	"github.com/surgemq/message"
 	"github.com/surgemq/surgemq/service"
 )
